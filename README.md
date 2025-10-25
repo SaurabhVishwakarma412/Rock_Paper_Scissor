@@ -38,7 +38,7 @@ It is designed to showcase the use of modern HTML, CSS styling, and JavaScript f
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot1.png)  
+![Screenshot](Screenshot1.png)  
 
 
 ## 📌 Notes
