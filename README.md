@@ -35,10 +35,7 @@ It is designed to showcase the use of modern HTML, CSS styling, and JavaScript f
 3. Enjoy the project!  
 
 ---
-
-## 📸 Screenshot
-
-![Screenshot](Screenshot1.png)  
+ 
 
 
 ## 📌 Notes
