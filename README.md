@@ -27,14 +27,6 @@ It is designed to showcase the use of modern HTML, CSS styling, and JavaScript f
 - **JavaScript** – Interactivity and dynamic functionality  
 
 ---
-
-## 🚀 How to Run
-
-1. Clone or download the repository.  
-2. Open `index.html` in your preferred web browser.  
-3. Enjoy the project!  
-
----
  
 
 
