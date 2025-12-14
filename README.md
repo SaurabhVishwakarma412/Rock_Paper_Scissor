@@ -34,7 +34,8 @@ It is designed to showcase the use of modern HTML, CSS styling, and JavaScript f
 
 - Works on all modern web browsers.  
 - No installation required.  
-- Feel free to customize and enhance the project.  
+- Feel free to customize and enhance the project.
+- Leave a ⭐ if you like it.
 
 
 ---
